@@ -12,7 +12,7 @@ You'll find A2oJ solutions(CODEFORCES) and CP algorithms implementations in my r
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dogecoder)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/DogeCoder)
 
-📌 Front-End Devloper
+📌 Front-End Developer
 
 📌 Learning About-> Quantum Computing (Shor's Algorithm, Some mathematical concepts, Quantum Physics-Tensor products, Quantum Fourier Transform etc.)
   
