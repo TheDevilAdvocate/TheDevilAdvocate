@@ -1,6 +1,6 @@
 
 # Hi, I'm Akshay! 👋
-🏰Currently Studying at IIT(ISM) Dhanbad. 
+🏰Currently Studying at **IIT(ISM) Dhanbad**. 
 
 You'll find A2oJ solutions(CODEFORCES) and CP algorithms implementations in my repositories.
 ![](https://komarev.com/ghpvc/?username=TheDevilAdvocate)
