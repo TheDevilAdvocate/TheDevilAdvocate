@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">I am a competitive programmer and a front end web developer. I</h3>
+<h3 align="center">I am a competitive programmer and a front end web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedeviladvocate&label=Profile%20views&color=0e75b6&style=flat" alt="thedeviladvocate" /> </p>
 
